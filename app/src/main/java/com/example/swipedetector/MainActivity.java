@@ -11,7 +11,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        //Swipe layout code, not good enough for this
+        //Swipe layout code to swipe animations
 //            SwipeInterface swipeInterface = new SwipeInterface() {
 //                @Override
 //                public void bottom2top() {}
